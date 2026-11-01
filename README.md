@@ -1,6 +1,6 @@
 # Fan-Fiction-Library
 - 均首发于https://archiveofourown.org
-- 仅做存档用
+- 仅存档
 - ao3:nsdlm
 ---
 ## 点击Branch食用
@@ -35,7 +35,7 @@
 > [逍遥游-3:危险游戏](https://github.com/nsdlm-commits/nsdlm-Fan-Fiction-Library/blob/Transcendental-Bliss/%E5%8D%B1%E9%99%A9%E6%B8%B8%E6%88%8F.md)
 
 ### 4.jldjl666
-仅做存档
+仅存档
 
 ### 5. 2025[坏冬天（有阅读顺序）](https://github.com/nsdlm-commits/nsdlm-Fan-Fiction-Library/tree/%E5%9D%8F%E5%86%AC%E5%A4%A9)
 **Character:李存贤/王浩楠**
@@ -44,7 +44,7 @@
 > [上海十二月下雨](https://github.com/nsdlm-commits/nsdlm-Fan-Fiction-Library/blob/%E5%9D%8F%E5%86%AC%E5%A4%A9/%E4%B8%8A%E6%B5%B7%E5%8D%81%E4%BA%8C%E6%9C%88%E4%B8%8B%E9%9B%A8.md)
 
 ### 6. 崃崃の奇妙冒险
-仅做存档
+仅存档
 
 ### 7. [贤内助Series【连载中】（有阅读顺序）](https://github.com/nsdlm-commits/nsdlm-Fan-Fiction-Library/tree/%E8%B4%A4%E5%86%85%E5%8A%A9Series)
 **Character:李存贤/王浩楠**
